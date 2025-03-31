@@ -2,8 +2,8 @@
 
 ![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--03--31-blue)
 ![Maintained by](https://img.shields.io/badge/Maintained%20by-ranjithprabhuk-brightgreen)
-![Categories](https://img.shields.io/badge/Categories-4-orange)
-![Problems](https://img.shields.io/badge/Total%20Problems-120-success)
+![Categories](https://img.shields.io/badge/Categories-5-orange)
+![Problems](https://img.shields.io/badge/Total%20Problems-150-success)
 
 A curated collection of technical interview problems categorized by topic and difficulty level. This repository aims to help developers prepare for technical interviews with a comprehensive set of problems and solutions.
 
@@ -13,6 +13,7 @@ A curated collection of technical interview problems categorized by topic and di
 - [String Problems](string.md) - String manipulation and pattern matching problems
 - [Object Problems](objects.md) - JavaScript/TypeScript object-oriented programming problems
 - [SQL Problems](sql.md) - Database and SQL query problems
+- [Data Structure Problems](data-structures.md) - Implementation and usage of various data structures
 - [Interview Questions](interview-questions.md) - Junior level and Senior level problems
 
 ## Problem Distribution
@@ -22,7 +23,7 @@ Each category contains:
 - 10 Medium Problems
 - 10 Hard Problems
 
-Total: 120 problems across all categories and difficulty levels
+Total: 150 problems across all categories and difficulty levels
 
 ## Difficulty Levels
 
@@ -38,6 +39,7 @@ Each problem includes:
 - Time/Space complexity (where applicable)
 - Sample test cases
 - Expected solutions
+- Implementation (for data structure problems)
 
 Example format:
 ```
@@ -79,6 +81,7 @@ Contributions are welcome! Please feel free to submit a Pull Request. To contrib
 - Specify the difficulty level
 - Add time and space complexity analyses
 - Follow the existing format in the respective category file
+- Include implementation for data structure problems
 
 ## License
 
@@ -90,7 +93,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Last Updated
 
-2025-03-31 04:02:14 UTC
+2025-03-31 04:05:10 UTC
 
 ---
 ⭐ Star this repository if you find it helpful!
